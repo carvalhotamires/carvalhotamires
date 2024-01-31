@@ -1,7 +1,8 @@
 
 
 
-![GitHub](https://github.com/carvalhotamires/carvalhotamires/assets/142610770/172f1b28-d7d0-4583-9410-28da9ef6987e)
+![🛠Languages   Tools](https://github.com/carvalhotamires/carvalhotamires/assets/142610770/a118e1e5-701c-429a-bd55-485e89ed36ad)
+
 
 
 
