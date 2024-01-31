@@ -6,9 +6,6 @@
 
 
 
-
-
-Olá eu sou Tamires Carvalho
 ---
 
 🎵👩‍💻 Apaixonada por Tecnologia e Inovação | Experiência em Produção Fonográfica
