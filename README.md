@@ -1,3 +1,13 @@
+
+
+
+![GitHub](https://github.com/carvalhotamires/carvalhotamires/assets/142610770/172f1b28-d7d0-4583-9410-28da9ef6987e)
+
+
+
+
+
+
 Olá eu sou Tamires Carvalho
 ---
 
@@ -6,6 +16,26 @@ Olá eu sou Tamires Carvalho
 Sou apaixonada pela música e tecnologia, com uma formação em produção fonográfica e uma crescente paixão pelo desenvolvimento web. Minha jornada profissional começou na indústria da música, faço edição de vídeo utilizando o software DaVinciResolve onde  também desenvolvi habilidades essenciais de colaboração, criatividade e resolução de problemas.
 Motivada pelo potencial transformador da tecnologia, decidi fazer uma transição de carreira para explorar novos horizontes e aplicar minha paixão pela inovação de forma mais ampla. Estou empenhada em aprender continuamente e em contribuir para projetos que impactem positivamente a vida das pessoas.
 
+🛠Languages & Tools
+---
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
+
+📈GitHub Stats
+---
 <div>
   
 <br>
@@ -23,23 +53,6 @@ Motivada pelo potencial transformador da tecnologia, decidi fazer uma transiçã
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
-
-###
 
 <div align="left">
   <a href="https://www.instagram.com/tamiresc.s/" target="_blank">
