@@ -1,12 +1,4 @@
-
-
-
-![🛠Languages   Tools](https://github.com/carvalhotamires/carvalhotamires/assets/142610770/a118e1e5-701c-429a-bd55-485e89ed36ad)
-
-
-
-
-
+Olá, sou Tamires Carvalho
 ---
 
 🎵👩‍💻 Apaixonada por Tecnologia e Inovação | Experiência em Produção Fonográfica
