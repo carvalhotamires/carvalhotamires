@@ -3,7 +3,7 @@ Olá, sou Tamires Carvalho
 
 🎵👩‍💻 Aprendendo sempre com a Tecnologia e Inovação | Experiência em Produção Fonográfica
 ---
-Com formação em produção fonográfica e uma paixão crescente pelo desenvolvimento web, minha jornada profissional começou na indústria da música. Ao longo do tempo, desenvolvi habilidades valiosas de colaboração, criatividade e resolução de problemas, especialmente enquanto também me aventurava na edição de vídeo. No entanto, motivada pelo potencial transformador da tecnologia, decidi fazer uma transição de carreira. Estou ansiosa para explorar novos horizontes e aplicar minha paixão pela inovação de forma mais ampla. Comprometo-me a aprender continuamente e a contribuir para projetos que tragam impactos positivos para a vida das pessoas.
+Com formação em produção fonográfica e uma paixão crescente pelo desenvolvimento web, minha jornada profissional começou na indústria da música. Ao longo do tempo, desenvolvi habilidades valiosas de colaboração, criatividade e resolução de problemas, especialmente enquanto também me aventurava em audiovisual com edição de vídeo. No entanto, motivada pelo potencial transformador da tecnologia, decidi fazer uma transição de carreira. Estou ansiosa para explorar novos horizontes e aplicar minha paixão pela inovação de forma mais ampla. Comprometo-me a aprender continuamente e a contribuir para projetos que tragam impactos positivos para a vida das pessoas.
 
 🛠Languages & Tools
 ---
