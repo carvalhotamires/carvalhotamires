@@ -1,7 +1,7 @@
 Olá, sou Tamires Carvalho
 ---
 
-🎵👩‍💻 Aprendendo sempre com a Tecnologia e Inovação | Experiência em Produção Fonográfica
+🎵 Audio Producer ➔ 🛡️ Cybersecurity Enthusiast | Full-Stack Learner | Building Secure Solutions
 ---
 De produtora fonográfica a entusiasta de Cybersecurity. Minha carreira começou entre áudios e vídeos, mas encontrou seu verdadeiro propósito na proteção de sistemas e pessoas.
 
