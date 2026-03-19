@@ -3,7 +3,9 @@ Olá, sou Tamires Carvalho
 
 🎵👩‍💻 Aprendendo sempre com a Tecnologia e Inovação | Experiência em Produção Fonográfica
 ---
-Com formação em produção fonográfica e uma paixão crescente pelo desenvolvimento web, minha jornada profissional começou na indústria da música. Ao longo do tempo, desenvolvi habilidades valiosas de colaboração, criatividade e resolução de problemas, especialmente enquanto também me aventurava em audiovisual com edição de vídeo. No entanto, motivada pelo potencial transformador da tecnologia, decidi fazer uma transição de carreira. Estou ansiosa para explorar novos horizontes e aplicar minha paixão pela inovação de forma mais ampla. Comprometo-me a aprender continuamente e a contribuir para projetos que tragam impactos positivos para a vida das pessoas.
+De produtora fonográfica a entusiasta de Cybersecurity. Minha carreira começou entre áudios e vídeos, mas encontrou seu verdadeiro propósito na proteção de sistemas e pessoas.
+
+Após vivenciar os impactos reais de falhas de segurança digital, decidi que meu conhecimento técnico em Sistemas para Internet deveria servir como escudo para os outros. Hoje, estudo o desenvolvimento de aplicações seguras e práticas de defesa contra fraudes. Acredito em uma tecnologia ética, autêntica e, acima de tudo, segura. Vamos construir um mundo digital mais protegido?
 
 🛠Languages & Tools
 ---
