@@ -3,9 +3,15 @@ Olá, sou Tamires Carvalho
 
 🎵 Audio Producer ➔ 🛡️ Cybersecurity Enthusiast | Full-Stack Learner | Building Secure Solutions
 ---
-De produtora fonográfica a entusiasta de Cybersecurity. Minha carreira começou entre áudios e vídeos, mas encontrou seu verdadeiro propósito na proteção de sistemas e pessoas.
+De produtora fonográfica à cibersegurança — uma transição guiada por propósito.
 
-Após vivenciar os impactos reais de falhas de segurança digital, decidi que meu conhecimento técnico em Sistemas para Internet deveria servir como escudo para os outros. Hoje, estudo o desenvolvimento de aplicações seguras e práticas de defesa contra fraudes. Acredito em uma tecnologia ética, autêntica e, acima de tudo, segura. Vamos construir um mundo digital mais protegido?
+Minha jornada começou no universo criativo, trabalhando com áudio e vídeo. Mas foi ao testemunhar os impactos reais de falhas em segurança digital que encontrei uma nova direção: proteger pessoas, dados e sistemas em um mundo cada vez mais vulnerável.
+
+Hoje, concentro meus estudos em segurança da informação e desenvolvimento seguro, com foco em prevenção de fraudes, proteção de dados sensíveis e fortalecimento de aplicações. Mais do que aprender ferramentas, busco entender ameaças, antecipar riscos e construir soluções seguras desde a base.
+
+Acredito que segurança não é apenas tecnologia — é responsabilidade.
+
+E é com esse compromisso que estou construindo minha carreira: para fazer da tecnologia um ambiente mais confiável, ético e resiliente.
 
 🛠Languages & Tools
 ---
