@@ -37,10 +37,9 @@ E é com esse compromisso que estou construindo minha carreira: para fazer da te
 ### 📈 GitHub Stats
 ---
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamirescarvalho&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirescarvalho&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamirescarvalho&theme=nightowl&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirescarvalho&theme=nightowl&layout=compact" />
 </div>
-
 ---
 
 <div align="left">
