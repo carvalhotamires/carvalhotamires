@@ -7,8 +7,6 @@
   />
 </p>
 
-
-
 ---
 
 ## 🎧 Audio Producer ➔ 🛡️ Cybersecurity |  💻 Full-Stack Learner | Building Secure Solutions
