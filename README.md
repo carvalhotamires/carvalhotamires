@@ -2,7 +2,7 @@
 
 ---
 
-## 🎵 Audio Producer ➔ 🛡️ Cybersecurity Enthusiast | Full-Stack Learner | Building Secure Solutions
+## 🎵 Audio Producer ➔ 🛡️ Cybersecurity  | Full-Stack Learner | Building Secure Solutions
 
 ---
 
