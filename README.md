@@ -1,4 +1,4 @@
-# 👋 Olá, sou Tamires Carvalho
+#  Olá, sou Tamires Carvalho
 
 ---
 
