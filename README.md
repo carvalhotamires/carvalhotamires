@@ -1,8 +1,15 @@
-#  Olá, sou Tamires Carvalho
+
+
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&width=450&lines=Ol%C3%A1%2C+sou+Tamires+Carvalho"
+    alt="Texto animado: Olá, sou Tamires Carvalho"
+  />
+</p>
 
 ---
 
-## 🎵 Audio Producer ➔ 🛡️ Cybersecurity | Full-Stack Learner | Building Secure Solutions
+## 🎵 Audio Engineer ➔ 🛡️ Cybersecurity | Full-Stack Learner | Building Secure Solutions
 
 ---
 
